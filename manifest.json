@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "cipher.",
+    "version": "1.0",
+    "description": "Your reliable Chrome password generator, creating strong and secure passwords to safeguard your online accounts.",
+    "icons": {
+        "16": "/img/icon16.png",
+        "36": "/img/icon36.png",
+        "128": "/img/icon128.png"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "clipboardWrite"
+    ]
+}
