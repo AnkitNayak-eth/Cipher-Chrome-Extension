@@ -1,7 +1,11 @@
 # Cipher - Chrome Extension
 
+![image](https://github.com/AnkitNayak-eth/Cipher-Chrome-Extension/assets/52006128/f2eddaac-4c0e-45af-b1f4-8765f42e6561)
+
 The Cipher Chrome Extension is a simple and convenient tool for generating random and secure passwords. It provides a user-friendly interface where users can easily generate passwords with a single click. The extension uses a combination of uppercase letters, lowercase letters, and numbers to create strong passwords.
 
+## Screenshots
+![image](https://github.com/AnkitNayak-eth/Cipher-Chrome-Extension/assets/52006128/0c781b8a-145b-42af-a44d-0e11ddc7308e)
 
 ## Features
 
