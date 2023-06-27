@@ -46,8 +46,15 @@ To generate a password using the Cipher Chrome Extension, follow these steps:
 ## Installation
 
 Follow the steps below to install the Cipher Chrome Extension:
+### For Normal Users
+- Download [Cipher.crx.zip](https://github.com/AnkitNayak-eth/Cipher-Chrome-Extension/files/11880188/Cipher.crx.zip)
+- Open a new tab in Chrome and navigate to `chrome://extensions`.
+- Drag and drop the CRX file onto the Extensions page.
+- Chrome will display a confirmation dialog. Click "Add extension" to install the CRX file as an extension.
+- Chrome will install the extension, and you should see it added to the list of installed extensions.
+- The Cipher Chrome Extension will be installed and ready to use.
 
-
+### For Developers 
 - Clone or download this repository to your local machine.
 - Open Google Chrome and enter `chrome://extensions` in the address bar.
 - Enable the "Developer mode" toggle switch in the top-right corner of the extensions page.
