@@ -17,18 +17,6 @@ The Cipher Chrome Extension is a simple and convenient tool for generating rando
 
 - Copy password to clipboard with a single click.
 - 
-## Installation
-
-Follow the steps below to install the Cipher Chrome Extension:
-
-
-- Clone or download this repository to your local machine.
-- Open Google Chrome and enter `chrome://extensions` in the address bar.
-- Enable the "Developer mode" toggle switch in the top-right corner of the extensions page.
-- Click on the "Load unpacked" button and select the directory where you cloned/downloaded this repository.
-- The Cipher Chrome Extension will be installed and ready to use.
-
-
 ## Usage
 
 To generate a password using the Cipher Chrome Extension, follow these steps:
