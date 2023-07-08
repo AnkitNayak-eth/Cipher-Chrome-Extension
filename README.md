@@ -59,6 +59,5 @@ Contributions to the Cipher Chrome Extension are always welcome! If you have any
 This repository is licensed under the MIT License. You are free to use, modify, and distribute the contents of this repository for both commercial and non-commercial purposes.
 
 ## Thank you
-[daa.txt](https://github.com/AnkitNayak-eth/Cipher-Chrome-Extension/files/11974165/daa.txt)
 
 Thank you for using the Cipher Chrome Extension! We appreciate your support and hope it helps you generate secure passwords effortlessly.
